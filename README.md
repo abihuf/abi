@@ -1,2 +1,0 @@
-# abi
-hw n programmes
